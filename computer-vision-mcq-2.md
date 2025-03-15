@@ -219,3 +219,65 @@ What is the mathematical relationship between the domain of a continuous image f
 - ℝ³ → ℝ², representing 3D to 2D projection
 
 **Correct Answer**: ℝ² → M × N, where M and N are the dimensions of the sampling grid
+
+# True/False Questions
+
+## Question 1
+
+- A digital camera with more pixels will always produce images with better spatial resolution than a camera with fewer pixels.
+
+**Correct Answer**: False (Spatial resolution depends not only on pixel count but also on other factors like lens quality and the distance to the subject)
+
+## Question 2
+
+- Quantization in digital imaging reduces the continuous range of intensity values to a finite set, while sampling reduces the continuous spatial domain to a discrete set of coordinates.
+
+**Correct Answer**: True
+
+## Question 3
+
+- The pinhole in a camera obscura should be as small as technically possible to achieve the sharpest image.
+
+**Correct Answer**: False (Making the pinhole too small causes diffraction effects which decrease image sharpness)
+
+## Question 4
+
+- When converting from analog to digital signals, CCD sensors typically perform the conversion at each individual sensing cell.
+
+**Correct Answer**: False (CCD sensors perform conversion at the end of each row/column, while CMOS sensors convert at each sensing cell)
+
+## Question 5
+
+- A camera with 8-bit intensity resolution can represent exactly 255 different intensity levels.
+
+**Correct Answer**: False (8-bit intensity resolution allows for 2^8 = 256 different intensity levels, ranging from 0 to 255)
+
+## Question 6
+
+- Light behaving as both a particle and a wave is a principle that has no practical impact on digital image formation.
+
+**Correct Answer**: False (The wave-particle duality of light directly affects imaging, particularly through diffraction effects in small apertures)
+
+## Question 7
+
+- The Bidirectional Reflectance Distribution Function (BRDF) is a 5-dimensional function that models how light interacts with surfaces.
+
+**Correct Answer**: True
+
+## Question 8
+
+- Brightness and luminance are objectively equivalent measurements in image processing.
+
+**Correct Answer**: False (Brightness is a subjective descriptor of light intensity, while luminance is an objective measurement)
+
+## Question 9
+
+- The dynamic range of the human eye is approximately the same as that of modern digital cameras.
+
+**Correct Answer**: False (The human eye has a dynamic range of about 10^9, which exceeds the capabilities of most standard digital cameras)
+
+## Question 10
+
+- In a Low Dynamic Range (LDR) image, details in both shadows and highlights are preserved equally well.
+
+**Correct Answer**: False (LDR images lose details in either the dark areas or bright areas, unlike HDR images which preserve details in both)

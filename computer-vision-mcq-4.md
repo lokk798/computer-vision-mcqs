@@ -1,7 +1,5 @@
 # Computer Vision MCQ Part 4: Image Processing
 
-## Intensity Transformation and Spatial Filtering
-
 1. Which of the following transformations is most appropriate when we need to compress the dynamic range of an image with large variations in pixel values?
 
    - A) Gain/Bias transformation
@@ -181,3 +179,75 @@
     - D) No visible edges at all
 
     **Correct Answer: B) Thick edges**
+
+## True/False Questions
+
+1. In a log transformation, the constant c is chosen to ensure that the maximum input value maps to the maximum output value.
+
+   - True
+   - False
+
+   **Correct Answer: True**
+
+2. The Laplacian operator is an example of a first-order derivative filter.
+
+   - True
+   - False
+
+   **Correct Answer: False** (It's a second-order derivative operator)
+
+3. When applying a 5×5 average filter to an image, the filter coefficients must sum to 1 to maintain the same average brightness level.
+
+   - True
+   - False
+
+   **Correct Answer: True**
+
+4. The negative transformation is equivalent to a power law transformation with γ = -1.
+
+   - True
+   - False
+
+   **Correct Answer: False** (Negative transformation is s = L-1-r, not r^(-1))
+
+5. The second-order derivative of a digital image produces double edges that are separated by zeros.
+
+   - True
+   - False
+
+   **Correct Answer: True**
+
+6. A median filter with a window size of 3×3 will always preserve sharp edges in the image.
+
+   - True
+   - False
+
+   **Correct Answer: False** (It preserves edges better than linear filters, but doesn't always preserve all edges perfectly)
+
+7. In histogram equalization, the resulting histogram is always perfectly uniform.
+
+   - True
+   - False
+
+   **Correct Answer: False** (Due to the discrete nature of digital images, the result is usually an approximation of a uniform distribution)
+
+8. The bilateral filter can be implemented as a convolution operation with a fixed kernel.
+
+   - True
+   - False
+
+   **Correct Answer: False** (It's non-linear because the weights depend on the image content)
+
+9. Applying a Gaussian filter with σ = 0 is equivalent to not filtering the image at all.
+
+   - True
+   - False
+
+   **Correct Answer: True**
+
+10. Otsu thresholding works best when the image histogram has a bimodal distribution.
+
+    - True
+    - False
+
+    **Correct Answer: True**

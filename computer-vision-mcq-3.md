@@ -179,3 +179,75 @@
 - D) The K component in CMYK
 
 **Answer: A) The Y component in XYZ**
+
+# True/False Questions
+
+## 1. True or False: In the RGB color model, the combination of equal amounts of all three primary colors at maximum intensity produces black.
+
+- True
+- False
+
+**Answer: False** (It produces white, not black)
+
+## 2. True or False: The Y component in the YCbCr color space represents the chrominance (color) information rather than the luminance.
+
+- True
+- False
+
+**Answer: False** (Y represents luminance, while Cb and Cr represent chrominance)
+
+## 3. True or False: In the CIE chromaticity diagram, any color that can be created by additive mixing lies on a straight line between the two original colors.
+
+- True
+- False
+
+**Answer: True** (Colors created by additive mixing lie on a straight line connecting the original colors on the chromaticity diagram)
+
+## 4. True or False: The M-cones (Medium-wavelength cones) are most sensitive to red light.
+
+- True
+- False
+
+**Answer: False** (M-cones are most sensitive to green light, while L-cones respond to red)
+
+## 5. True or False: It's possible for two people with different types of color blindness to perceive the same color differently, while both still perceiving it as a "normal" color.
+
+- True
+- False
+
+**Answer: True** (Different types of color blindness affect color perception in different ways)
+
+## 6. True or False: The RGB color space is device-independent, meaning colors appear exactly the same across all devices.
+
+- True
+- False
+
+**Answer: False** (RGB is device-dependent; the same RGB values can appear differently on different devices)
+
+## 7. True or False: All colors perceptible by the human eye can be reproduced using the RGB color model on standard digital displays.
+
+- True
+- False
+
+**Answer: False** (The RGB gamut is smaller than the full range of colors perceptible by humans)
+
+## 8. True or False: In the HSV cylinder model, saturation increases as you move away from the central axis.
+
+- True
+- False
+
+**Answer: True** (Saturation increases with distance from the central axis; the center represents zero saturation)
+
+## 9. True or False: The K in CMYK stands for "Kelvin," referring to color temperature.
+
+- True
+- False
+
+**Answer: False** (K stands for "Key" or black, not Kelvin)
+
+## 10. True or False: When converting from RGB to HSV, if the saturation value is 0, the hue value becomes irrelevant because the color is a shade of gray.
+
+- True
+- False
+
+**Answer: True** (With S=0, the color is on the grayscale axis and hue has no effect)

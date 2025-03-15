@@ -259,3 +259,115 @@ According to the document, which of these best describes the approach prioritize
 - D) A comparative approach contrasting computer vision with human vision
 
 **Correct Answer: B**
+
+---
+
+## True/False Questions
+
+### Question 21
+
+True or False: Computer vision is considered "exciting and well-organized" according to the course materials.
+
+- True
+- False
+
+**Correct Answer: False** (It's described as "exciting and disorganized")
+
+---
+
+### Question 22
+
+True or False: The Müller-Lyer Illusion works because the brain incorrectly processes line length when angles are present at the ends of lines.
+
+- True
+- False
+
+**Correct Answer: True** (The brain assumes the "angles in" configuration to be closer and computes size constancy on it)
+
+---
+
+### Question 23
+
+True or False: Image segmentation is considered a low-level computer vision task.
+
+- True
+- False
+
+**Correct Answer: False** (It's considered a medium-level task)
+
+---
+
+### Question 24
+
+True or False: Deep learning became a significant focus in computer vision before the year 2000.
+
+- True
+- False
+
+**Correct Answer: False** (According to the document, deep learning became significant around 2012)
+
+---
+
+### Question 25
+
+True or False: The pop-out effect occurs because the visual system requires conscious effort to identify unique elements in a visual scene.
+
+- True
+- False
+
+**Correct Answer: False** (The pop-out effect happens effortlessly and without the need to actively search)
+
+---
+
+### Question 26
+
+True or False: Computer vision and computer graphics are solving essentially the same problem but with different methodologies.
+
+- True
+- False
+
+**Correct Answer: False** (Computer vision is an inverse problem compared to computer graphics)
+
+---
+
+### Question 27
+
+True or False: Based on the document, all useful ideas in computer vision have solid theoretical grounding.
+
+- True
+- False
+
+**Correct Answer: False** (The document states that "Many useful ideas have no theoretical grounding")
+
+---
+
+### Question 28
+
+True or False: The course approaches computer vision primarily through a theoretical lens rather than a practical one.
+
+- True
+- False
+
+**Correct Answer: False** (The course prioritizes "a practical approach while introducing the fundamental principles and concepts")
+
+---
+
+### Question 29
+
+True or False: Adelson's Checker-shadow illusion demonstrates that the human visual system cannot accurately determine the color of objects under different lighting conditions.
+
+- True
+- False
+
+**Correct Answer: False** (It actually demonstrates how the visual system uses tricks to compensate for shadows when determining color)
+
+---
+
+### Question 30
+
+True or False: According to the document, the technologies used for protecting the Kasbah of Algiers involved both surface damage identification and 3D reconstruction.
+
+- True
+- False
+
+**Correct Answer: False** (Only surface damage identification using deep learning is mentioned)
